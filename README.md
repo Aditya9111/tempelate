@@ -1,1 +1,1 @@
-TinDog Starting Files
+Template starting files
